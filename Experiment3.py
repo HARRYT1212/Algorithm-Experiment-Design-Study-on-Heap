@@ -1,4 +1,3 @@
-# Zechen Tian 1723669
 # I implemented this file independently for assignment.
 
 import time
